@@ -29,6 +29,9 @@ dHermes 致力于提供底层分布式计算框架，基于 dHermes 构筑面向
 - CUDA
 - etcd
 - KubeEdge
+- [Ray](https://github.com/ray-project/ray)
+- [Actor Model](https://doc.akka.io/docs/akka/current/typed/guide/actors-intro.html)
+- Erlang / Golang
 
 ## RoadMap
 
